@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+chromadb
+ollama
+python-dotenv
+numpy
+rank-bm25
